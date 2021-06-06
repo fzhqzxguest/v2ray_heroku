@@ -1,12 +1,12 @@
 {
     "inbounds": [
         {
-            "port": "__PORT",
+            "port": "443",
             "protocol": "vmess",
             "settings": {
                 "clients": [
                     {
-                        "id": "__UUID",
+                        "id": "1af7a3c8-c678-11eb-b8bc-0242ac130003",
                         "alterId": 64
                     }
                 ],
@@ -19,7 +19,7 @@
     ],
     "outbounds": [
         {
-            "protocol": "freedom"
+            "protocol": "zwqv2ray2.herokuapp.com"
         }
     ]
 }
