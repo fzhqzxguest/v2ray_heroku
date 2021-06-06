@@ -46,7 +46,7 @@
     "settings": {
       "timeout": 360
     },
-    "port": "1087"
+    "port": "10809"
   }],
   // List of outbound proxy configurations.
   "outbounds": [{
