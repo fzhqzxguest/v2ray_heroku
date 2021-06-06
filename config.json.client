@@ -56,10 +56,10 @@
     // Settings of the protocol. Varies based on protocol.
     "settings": {
       "vnext": [{
-          "address": "<your app name>.herokuapp.com",
+          "address": "zwqv2ray2.herokuapp.com",
           "port": 443,
           "users": [{
-               "id": "<your UUID>",
+               "id": "1af7a3c8-c678-11eb-b8bc-0242ac130003",
                "alterId": 64,
                "security": "auto",
                "level": 0
